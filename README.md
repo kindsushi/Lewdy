@@ -12,6 +12,8 @@ from the internet to the program.
 
 The code is open source, so feel free to modify my app as you like.
 
+Actual version: | 1.00.0 |
+
 
 
 
@@ -37,17 +39,20 @@ The code is open source, so feel free to modify my app as you like.
 
 This is the same link as ''Code'' - ''Download ZIP''.
     
+### Virus detection
+
+[VirusTotal](https://www.virustotal.com/gui/file/bdaf7a05f1ca42415c438bf7c1bb1fb5f9435138dae255e803f8aa112e127744/detection) 2/72 flagged, I don't really know why but I suppose it's because of the API and HTTP, plus most trusted platforms didn't flag. You can check the code yourself or throw it into any virtual box or AI, it's safe and all right.
 
 
 ### Author(s)
 
 [Kindsushi](https://github.com/kindsushi)
-## Documentation
+### Documentation
 
 [NIGHT-API](https://docs.night-api.com) ( documentation is empty for some reason but should be here)
 
 
-## License
+### License
 
 [GNU GENERAL PUBLIC LICENSE](https://raw.githubusercontent.com/kindsushi/Lewdy/refs/heads/main/LICENSE)
 
